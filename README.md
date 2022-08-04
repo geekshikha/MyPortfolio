@@ -7,7 +7,7 @@
 <h3 align="center">As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. It is a great way to showcase your skills, give life to your code, and receive acclaim for your efforts. Check out my portfolio to know more about me as a Full stack Developer!
 </h3>
 
-- [To see the portfolio live, visit 👈](https://shikhasingh-portfolio.netlify.app/)
+[To see the portfolio live, visit 👈](https://shikhasingh-portfolio.netlify.app/)
 
 ---
 
@@ -18,3 +18,5 @@
 - Formspree
 
 ---
+
+I followed [Madhav Bahl's video tutorials](https://github.com/MadhavBahl) for building my portfolio, which was great fun to watch and learn.

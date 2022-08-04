@@ -12,7 +12,7 @@ const Skills = () => {
     <div className="section-container">
       <Header
         heading="My Skills"
-        details="I am always on a journey of learning new skills, here are the skills I have learnt so far !"
+        details="Passionate about technologies! I always keep learning new skills, here are the skills I have learnt so far !"
       />
 
       <div className="skill-card-container">

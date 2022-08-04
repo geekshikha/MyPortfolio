@@ -15,7 +15,7 @@ select:focus {
 
 .section-container {
   box-sizing: border-box;
-  min-height: 100vh;
+  min-height: 90vh;
   position: relative;
   padding: 50px 0;
   display: flex;

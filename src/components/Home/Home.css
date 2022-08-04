@@ -4,11 +4,11 @@
   justify-content: center;
   align-items: center;
   overflow-y: auto;
-  padding: 50px 10%;
+  padding: 40px 10%;
   box-sizing: border-box;
   background-color: #458ff6;
   background-image: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
-  min-height: 90vh;
+  min-height: 90.5vh;
 }
 
 .header-text {
@@ -66,6 +66,8 @@
 .btn:hover {
   box-shadow: 1px 10px 32px rgba(0, 0, 0, 0.45);
   transition: all 0.3s ease-in-out;
+  background-color: white;
+  color: #458ff6;
 }
 
 .btn-text {
@@ -85,7 +87,7 @@
 }
 
 .home-anime {
-  margin-bottom: -80px;
+  margin-bottom: -70px;
 }
 
 /* For small height screen sizes */

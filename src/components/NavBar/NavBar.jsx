@@ -1,8 +1,6 @@
 import styled from "styled-components";
 import { useState } from "react";
 
-// import { AiOutlineUser } from "react-icons/ai";
-
 const NavBar = () => {
   const [open, setOpen] = useState(false);
 
@@ -52,7 +50,7 @@ const Nav = styled.div`
   flex-wrap: wrap;
 
   background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
-  height: 100px;
+  height: 90px;
 
   /* position: absolute; */
 
@@ -68,7 +66,7 @@ const Logo = styled.a`
   font-weight: 300;
   font-size: 1.8rem;
   display: flex;
-  padding: 40px;
+  // padding: 40px;
   align-items: center;
 
   span {

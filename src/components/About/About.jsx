@@ -46,7 +46,7 @@ const About = () => {
             </p>
           </div>
           {/* Sub section 2 */}
-          <h3 className="about-sub-head">Teacher</h3>
+          <h3 className="about-sub-head">Instuctor</h3>
           <p className="about-details">
             Teaching is my passion, till now, I've mentor students about
             machines.

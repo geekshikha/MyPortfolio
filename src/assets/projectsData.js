@@ -32,7 +32,7 @@ export const projectsData = [
       "As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. Check out my portfolio to know more about me as a Full stack Developer !",
     imageUrl:
       "https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/myportfolio.png?raw=true",
-    projectUrl: "",
+    projectUrl: "https://shikhasingh-portfolio.netlify.app/",
     githubRepo: "https://github.com/geekshikha/MyPortfolio",
   },
   {
@@ -41,7 +41,7 @@ export const projectsData = [
       "As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. Check out my portfolio to know more about me as a Full stack Developer !",
     imageUrl:
       "https://user-images.githubusercontent.com/79321645/159123371-2348e107-6f41-4077-98de-6ebc5d7798ec.png",
-    projectUrl: "",
+    projectUrl: "https://drag-drop-moveme.netlify.app/",
     githubRepo: "https://github.com/geekshikha/Drag-Drop-o",
   },
   {

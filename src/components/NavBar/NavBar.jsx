@@ -52,11 +52,15 @@ const Nav = styled.div`
   background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
   height: 90px;
 
-  /* position: absolute; */
+  // position: absolute;
 
   top: 0;
   left: 0;
   right: 0;
+
+  @media (max-width: 780px) {
+    height: 345px;
+  }
 `;
 
 const Logo = styled.a`

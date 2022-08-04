@@ -22,34 +22,32 @@ const About = () => {
           <div className="about-details">
             <p>
               I am a Full Stack Developer looking for Junior level Full
-              Stack/Front End Developer opportunities. I have worked as a
-              Teacher and now I have reskilled myself as a Full Stack Developer
-              since I have been always passionate about web development.
+              Stack/Front End Developer opportunities. Having worked as an
+              instructor and mentor in the past, I have now reskilled myself to
+              a Full Stack Developer.
             </p>
             <p>
-              I am constantly upgrading my knowledge learning the latest
-              technologies, I am passionate about front-end technologies and
-              have been following my passion through different online courses.
-              Recently, I graduated from an intensive 10-weeks long Full stack
-              developer bootcamp from Codaisseur. You can have a look at
-              projects I built in projects section.
+              I have always been interested in web development and am
+              continuously upgrading my knowledge about the latest web and
+              front-end development technologies through various online courses
+              and personal projects. Recently, I graduated from a 10-week
+              intensive Full Stack Developer bootcamp from Codaisseur, which has
+              helped me polish my skills further. Some of the projects that I
+              have developed can be found under the projects section below.
             </p>
             <p>
-              I am a quick learner and I always take efforts in upgrading my
-              technology stack. I am a creative, fun, passionate coder who likes
-              to tackle challenges and aims for quality and perfection in my
-              work.
-            </p>
-            <p>
-              I am now seeking a job that will allow me to use and grow my
-              technical and creative skills, as a full-stack developer!
+              I am a quick learner and eager to enhance my skills and knowledge.
+              A creative and fun loving coder, I enjoy tackling challenges,
+              while aiming for quality of work. I am now looking for an
+              opportunity that leverages and enhances my technical as well as
+              creative skills, as a full stack developer.
             </p>
           </div>
           {/* Sub section 2 */}
           <h3 className="about-sub-head">Instructor</h3>
           <p className="about-details">
-            Teaching is my passion, till now, I've mentor students about
-            machines.
+            In the past, I have been an instructor and mentor to industrial
+            trainees about lathe machines and other mechanical tools.
           </p>
         </div>
 

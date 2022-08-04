@@ -11,7 +11,7 @@ const Projects = () => {
     <div className="section-container">
       <Header
         heading="My Projects"
-        details="Have a look at the projects I built during my learning journey!"
+        details="The projects I built during my learning journey, do check them out!"
       />
       <div className="project-cards-container">
         {projectsData.map((proj) => {

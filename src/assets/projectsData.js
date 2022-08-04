@@ -2,8 +2,9 @@ export const projectsData = [
   {
     projectName: "Araksha",
     projectDescription:
-      "Araksha is an e-commerce website to buy/sell an item locator for objects.",
-    imageUrl: "",
+      "Araksha was created to solve real-life problem of lost objects (for example, especially in the Netherlands its common to encounter pamphlets of missing cats & dogs also cases of lost bikes are common). It is an e-commerce website selling devices with GPS module  to locate the object with real-time location.",
+    imageUrl:
+      "https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/Araksha.png?raw=true",
     projectUrl: "",
     githubRepo:
       "https://github.com/geekshikha/Portfolio-Project-Araksha-Frontend",
@@ -11,7 +12,7 @@ export const projectsData = [
   {
     projectName: "MyTicTacToe",
     projectDescription:
-      "A 2 player game,which can be played by 2 person or single person.The result is displaying after if the match draw and if the match won by any of the player, the winner is displayed and a gameover music is there",
+      "A 2 player game,which can be played by 2 person or single person.The result is displaying after if the match draw and if the match won by any of the player, the winner is displayed and a gameover music is there.",
     imageUrl:
       "https://github.com/geekshikha/Tic-Tac-Toe-Game/raw/main/images/playboard.gif",
     projectUrl: "https://tictacktoemygame.netlify.app/",
@@ -38,7 +39,7 @@ export const projectsData = [
   {
     projectName: "Drag Drop",
     projectDescription:
-      "As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. Check out my portfolio to know more about me as a Full stack Developer !",
+      "A drag and drop is a pointing device gesture in which the user selects a virtual object by grabbing it and dragging it to a different location or onto another virtual object. ",
     imageUrl:
       "https://user-images.githubusercontent.com/79321645/159123371-2348e107-6f41-4077-98de-6ebc5d7798ec.png",
     projectUrl: "https://drag-drop-moveme.netlify.app/",
@@ -47,7 +48,7 @@ export const projectsData = [
   {
     projectName: "Spotify Clone",
     projectDescription:
-      "As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. Check out my portfolio to know more about me as a Full stack Developer !",
+      "Cloned the spotify landing page. This project was created by using HTML, CSS and Vanila Javascript.",
     imageUrl:
       "https://user-images.githubusercontent.com/79321645/168287140-f321f194-3767-4935-8643-f6d15b23cfcc.png",
     projectUrl: "",

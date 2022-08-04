@@ -11,7 +11,7 @@ const About = () => {
     <div className="section-container">
       <Header
         heading="About Me"
-        details="Hello, this is Shikha Singh, welcome to my portfolio website"
+        details="Hello! I am Shikha Singh. Welcome to my portfolio website."
       />
 
       <div className="about-main">
@@ -46,7 +46,7 @@ const About = () => {
             </p>
           </div>
           {/* Sub section 2 */}
-          <h3 className="about-sub-head">Instuctor</h3>
+          <h3 className="about-sub-head">Instructor</h3>
           <p className="about-details">
             Teaching is my passion, till now, I've mentor students about
             machines.

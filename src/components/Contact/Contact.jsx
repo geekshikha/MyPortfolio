@@ -6,6 +6,8 @@ import Footer from "../FooterLink/FooterLink";
 import contactAnime from "../../assets/Digital tools.gif";
 import github from "../../assets/gh.png";
 import linkedin from "../../assets/li.png";
+import resumeIcon from "../../assets/resume-icon.jpeg";
+import Resume from "../../assets/Resume[Shikha-Singh].pdf";
 import ContactReply from "../Contact/ContactReply";
 import "./Contact.css";
 
@@ -66,6 +68,13 @@ const Contact = () => {
         >
           <img src={linkedin} alt="linkedin icon" />
         </a>
+        <a
+          href={Resume}
+          download="Resume[Shikha-Singh].pdf"
+          className="social-icon"
+        >
+          <img src={resumeIcon} alt="resume icon" style={{ width: "60px" }} />
+        </a>
       </div>
       <Footer phrase="Check out my projects !" toAddress="/projects" />
     </div>
@@ -73,7 +82,3 @@ const Contact = () => {
 };
 
 export default Contact;
-
-// <form className="contact-form" onSubmit={handleSubmit}>
-
-// disabled={state.submitting}

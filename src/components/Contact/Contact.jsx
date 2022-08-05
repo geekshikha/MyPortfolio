@@ -2,7 +2,7 @@ import React from "react";
 import { useForm } from "@formspree/react";
 
 import Header from "../Header/Header";
-import Footer from "../FooterLink/FooterLink";
+
 import contactAnime from "../../assets/Digital tools.gif";
 import github from "../../assets/gh.png";
 import linkedin from "../../assets/li.png";
@@ -76,7 +76,6 @@ const Contact = () => {
           <img src={resumeIcon} alt="resume icon" style={{ width: "60px" }} />
         </a>
       </div>
-      <Footer phrase="Check out my projects !" toAddress="/projects" />
     </div>
   );
 };

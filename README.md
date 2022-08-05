@@ -3,6 +3,8 @@
 <div align="center" width="50">
   <img src="https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/myportfolio.png?raw=true" alt="portfolio"  width="850"/>
  <img src="https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/projectscreenshot.png?raw=true" alt="portfolio"  width="850"/>
+  <img src="https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/contactResponsive.png?raw=true" alt="portfolio"  width="460"/>
+ <img src="https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/contactPage.png?raw=true" alt="portfolio"  width="450"/>
 </div>
 
 ---
@@ -10,7 +12,7 @@
 <h4 align="center">As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. It is a great way to showcase your skills, give life to your code, and receive acclaim for your efforts. Check out my portfolio to know more about me as a Full stack Developer!
 </h4>
 
-[To see the portfolio live, visit 👈](https://shikhasingh-portfolio.netlify.app/)
+- [To see the portfolio live, visit 👈](https://shikhasingh-portfolio.netlify.app/)
 
 ---
 

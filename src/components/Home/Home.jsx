@@ -9,7 +9,7 @@ const Home = () => {
     <div className="home-container">
       <header className="home-header">
         <h1>Welcome to my portfolio !</h1>
-        <p>Full Stack Developer | Software Engineer</p>
+        <p>Full Stack Web Developer </p>
       </header>
       <div className="home-btns">
         <Link to="/about" className="btn btn-white">

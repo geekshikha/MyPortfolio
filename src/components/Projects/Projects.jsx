@@ -26,7 +26,7 @@ const Projects = () => {
           );
         })}
       </div>
-      <FooterLink phrase="Get in touch !" toAddress="/contact" />
+      <FooterLink phrase="Get in touch" toAddress="/contact" />
     </div>
   );
 };

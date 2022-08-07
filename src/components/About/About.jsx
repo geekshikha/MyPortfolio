@@ -56,7 +56,7 @@ const About = () => {
         </div>
       </div>
 
-      <FooterLink phrase="Check out my projects!" toAddress="/projects" />
+      <FooterLink phrase="Check out my projects" toAddress="/projects" />
       {/* Vector Frame! */}
       <div className="vector-frame">
         <img src={aboutVector} className="about-vector" alt="about" />

@@ -2,17 +2,17 @@ export const projectsData = [
   {
     projectName: "Araksha",
     projectDescription:
-      "Araksha was created to solve real-life problem of lost objects (for example, especially in the Netherlands its common to encounter pamphlets of missing cats & dogs also cases of lost bikes are common). It is an e-commerce website selling devices with GPS module  to locate the object with real-time location.",
+      "Araksha is created to help people locate lost objects. We often encounter pamphlets of missing pets and bikes in our neighbourhood. It is an e-commerce website selling devices with GPS module to locate the object with real-time location.",
     imageUrl:
       "https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/Araksha.png?raw=true",
-    projectUrl: "",
+    projectUrl: "https://araksha.netlify.app/",
     githubRepo:
       "https://github.com/geekshikha/Portfolio-Project-Araksha-Frontend",
   },
   {
     projectName: "MyTicTacToe",
     projectDescription:
-      "A 2 player game,which can be played by 2 person or single person.The result is displaying after if the match draw and if the match won by any of the player, the winner is displayed and a gameover music is there.",
+      "Two players take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner, When the game is over,  the winner is displayed and music is played.",
     imageUrl:
       "https://github.com/geekshikha/Tic-Tac-Toe-Game/raw/main/images/playboard.gif",
     projectUrl: "https://tictacktoemygame.netlify.app/",
@@ -51,7 +51,7 @@ export const projectsData = [
       "Cloned the spotify landing page. This project was created by using HTML, CSS and Vanila Javascript.",
     imageUrl:
       "https://user-images.githubusercontent.com/79321645/168287140-f321f194-3767-4935-8643-f6d15b23cfcc.png",
-    projectUrl: "",
+    projectUrl: "https://spotify-clone-landing-page.netlify.app/",
     githubRepo: "https://github.com/geekshikha/Spotify-Clone",
   },
 ];

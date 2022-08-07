@@ -9,8 +9,15 @@
 
 ---
 
-<h4 align="center">As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. It is a great way to showcase your skills, give life to your code, and receive acclaim for your efforts. Check out my portfolio to know more about me as a Full stack Developer!
-</h4>
+<div>
+
+<ul>
+  <li>As a developer/designer, you should definitely have your own portfolio website. There are endless benefits.</li>
+  <li>It is a great way to showcase your skills, give life to your code, and receive acclaim for your efforts.</li>
+  <li>Check out my portfolio to know more about me as a Full stack Developer!</li>
+
+  </ul>
+   </div>
 
 - [To see the portfolio live, visit 👈](https://shikhasingh-portfolio.netlify.app/)
 
